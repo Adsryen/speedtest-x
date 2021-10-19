@@ -1,7 +1,6 @@
 /*
 	LibreSpeed - Main
 	by Federico Dossena
-	https://github.com/librespeed/speedtest/
 	GNU LGPLv3 License
 */
 
@@ -52,7 +51,7 @@ function Speedtest() {
     "LibreSpeed by Federico Dossena v5.2.2 - https://github.com/librespeed/speedtest"
   );
   console.log(
-      "speedtest-x - https://github.com/BadApple9/speedtest-x"
+      "speedtest - https://github.com/BadApple9/speedtest"
   );
 }
 

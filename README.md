@@ -1,9 +1,9 @@
-# speedtest-x
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/badapple9/speedtest-x) ![GitHub last commit](https://img.shields.io/github/last-commit/badapple9/speedtest-x) ![GitHub](https://img.shields.io/github/license/badapple9/speedtest-x)
+# speedtest
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/badapple9/speedtest) ![GitHub last commit](https://img.shields.io/github/last-commit/badapple9/speedtest) ![GitHub](https://img.shields.io/github/license/badapple9/speedtest)
 
 本仓库为 [LibreSpeed](https://github.com/librespeed/speedtest) 的延伸项目，LibreSpeed 是一个非常轻巧的网站测速工具。
 
-speedtest-x 使用文件数据库来保存来自不同用户的测速结果，方便您查看全国不同地域与运营商的测速效果。
+speedtest 使用文件数据库来保存来自不同用户的测速结果，方便您查看全国不同地域与运营商的测速效果。
 
 [加入交流 TG 群](https://t.me/xiaozhu5)
 
@@ -36,9 +36,9 @@ Jetbrains 全家桶教育许可，正规国内大学渠道，9.9 元，购买地
 
 #### Docker 部署
 
-1、拉取 [Docker 镜像](https://hub.docker.com/r/badapple9/speedtest-x) `docker pull badapple9/speedtest-x`
+1、拉取 [Docker 镜像](https://hub.docker.com/r/badapple9/speedtest) `docker pull badapple9/speedtest`
 
-2、运行容器 `docker run -d -p 9001:80 -it badapple9/speedtest-x`
+2、运行容器 `docker run -d -p 9001:80 -it badapple9/speedtest`
 
 > **-d**：以常驻进程模式启动
 >
@@ -93,7 +93,7 @@ Jetbrains 全家桶教育许可，正规国内大学渠道，9.9 元，购买地
 
 **2020/11/19**
 
-> Docker 镜像上线 [https://hub.docker.com/r/badapple9/speedtest-x](https://hub.docker.com/r/badapple9/speedtest-x)
+> Docker 镜像上线 [https://hub.docker.com/r/badapple9/speedtest](https://hub.docker.com/r/badapple9/speedtest)
 
 **2020/11/18**
 
